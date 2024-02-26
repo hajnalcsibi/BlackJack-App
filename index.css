@@ -1,0 +1,29 @@
+h1 {
+    color: goldenrod;
+    margin-top: 100px;
+}
+
+body {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1765802.jpg&f=1&nofb=1&ipt=6c39605dbe6d08e48463b8d1010ee4adae2b5927677a66209963e1513e25309a&ipo=images");
+  background-size: cover;
+  color:white;
+  font-size:50px;
+  text-align: center;
+  font-weight: bold;
+}
+
+#message-el {
+font-style: italic;    
+}
+
+button {
+  background-color: goldenrod;
+  color: #016f32;
+  width:150px;
+  border:none;
+  border-radius: 2px;
+  height: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+  
+}
